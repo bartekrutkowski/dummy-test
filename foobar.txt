@@ -1,6 +1,1 @@
-baz
-asdf
-123
-456
-678
-asdf
+This could be your advertisement.
